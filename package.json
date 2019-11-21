@@ -1,0 +1,17 @@
+{
+  "name": "DocAzureStorageBlobInNodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leon",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/storage-blob": "^12.0.0",
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
